@@ -8,6 +8,7 @@ class ConsoleApplicationTests {
 
   @Test
   void contextLoads() {
+    System.out.println(“hahaha”);
   }
 
 }
