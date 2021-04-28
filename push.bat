@@ -7,6 +7,6 @@ git config --global user.password "linruikai123321"
 git add .
 git commit -m "haha"
 
-git remote add origin https://github.com/linruikai/ruoyi-console.git
+git remote add origin git@github.com:linruikai/ruoyi-console.git
 
 git push origin master --tag
