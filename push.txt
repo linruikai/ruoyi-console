@@ -1,5 +1,5 @@
 d:
-cd D:\文件\学习资料\git脚本\test
+cd D:\鏂囦欢\瀛︿範璧勬枡\git鑴氭湰\test
 git add .
 git commit -m "haha11111"
 git push origin master 
