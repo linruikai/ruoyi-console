@@ -1,7 +1,10 @@
 d:
+cd D:\文件\学习资料\git脚本\test\src\test\java\com\ruoyi\console
+set now=%date% %time%
+echo '12331' > ConsoleApplicationTests.java
 cd D:\文件\学习资料\git脚本\test
 git add .
-git commit -m "haha11111"
+git commit -m "%now%"
 git push origin master 
 echo "Batch execution complete!"
 pause
