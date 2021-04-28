@@ -8,7 +8,7 @@ class ConsoleApplicationTests {
 
   @Test
   void contextLoads() {
-    System.out.println("111111");
+    System.out.println("5555");
   }
 
 }
