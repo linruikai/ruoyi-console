@@ -8,7 +8,7 @@ class ConsoleApplicationTests {
 
   @Test
   void contextLoads() {
-    System.out.println("sdfasf");
+    System.out.println("sdfasasdfasff");
   }
 
 }
