@@ -7,4 +7,3 @@ git add .
 git commit -m "%now%"
 git push origin master 
 echo "Batch execution complete!"
-pause
